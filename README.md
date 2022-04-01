@@ -1,1 +1,1 @@
-# hqbot
+# HQ-Trivia-Google
